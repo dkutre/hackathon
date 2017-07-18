@@ -11,7 +11,7 @@
 Запуск:
 
     cd bin
-    ./hackathon
+    ./hackathon -p 8000
 
 Используется:
 
